@@ -1,0 +1,34 @@
+# === Секреты и настройки (НИКОГДА не коммитить) ===
+.env
+.env.*
+settings.json
+
+# === Сессия браузера / профиль (куки, токены) ===
+.browser_profile/
+user_data/
+
+# === Артефакты работы (могут содержать данные клиента) ===
+errors/
+logs/
+*.log
+auth_error.png
+screenshot*.png
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# === Сборка PyInstaller ===
+build/
+dist/
+*.spec
+
+# === ОС / IDE ===
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
