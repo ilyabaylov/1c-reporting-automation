@@ -33,9 +33,9 @@
 
 ## Демо · Screenshots
 
-| Интерфейс | Логи в реальном времени | Уведомление в Telegram |
+| Интерфейс | Логи в реальном времени |
 |---|---|---|
-| ![Интерфейс приложения](docs/screenshots/app.png) | ![Логи](docs/screenshots/logs.png) | ![Telegram](docs/screenshots/telegram.png) |
+| ![Интерфейс приложения](docs/screenshots/app.png) | ![Логи](docs/screenshots/logs.png) |
 
 ## Архитектура
 
